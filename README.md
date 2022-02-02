@@ -54,4 +54,5 @@ Voir les états de survol pour les éléments interactifs.</p>
 </br>
 
 <h2>Captures d'écran</h2>
-![Capture d’écran 2022-02-02 à 13 27 58](https://user-images.githubusercontent.com/82833380/152153642-d561daa5-4a72-4f87-8b1b-4e9232e7081b.png)
+
+![Capture d’écran 2022-02-02 à 13 27 58](https://user-images.githubusercontent.com/82833380/152153763-eabc7614-cba7-4f05-93f7-ace26f1999bc.png)
