@@ -1,38 +1,121 @@
-.App {
-  text-align: center;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+    background-color: hsl(217, 54%, 11%);
+    display: flex;
+    justify-content: center;
+}
+.card2 {
+    background-color: hsl(216, 50%, 16%);
+    width: 350px;
+    height: 600px;
+    margin: 90px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: hsl(0, 0%, 100%);
+    padding: 30px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+.imageCard {
+    display: flex;
+    justify-content: center;
+    width: 290px;
+    height: 290px;    
+    border-radius: 10px;
+}
+.descript {
+    opacity: 60%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+ul li{
+    text-decoration: none;
+    list-style: none;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+li{
+    /* margin-right: 4em;
+    padding-left: 2em; */
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
-.App-link {
-  color: #61dafb;
+h2 {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+p {
+    font-size: 18px;
+    padding-bottom: 1em;
+    opacity: 60%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+.crea6 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: center;
 }
+
+.txt4 {
+    padding: 10px;
+}
+/* .icones {
+    display: flex;
+    justify-content: space-between;
+    margin: 2Opx;
+} */
+.txt5 {
+display: flex;
+justify-content: space-between;
+}
+
+.eth {
+    color: hsl(178, 100%, 50%);
+    font-weight: bold;
+}
+
+.days {
+    opacity: 60%;
+}
+
+.trait {
+    padding-top: 1em;
+}
+
+hr {
+    margin-right: 2em;
+    margin-left: 2em;
+    margin-bottom: 1em;
+    width: 80%;
+    color: gray;
+}
+.avatar {
+    width: 40px;
+    height: 40px;
+}
+/* @media only screen and (min-width: 375px) {
+.card2 {
+    width: 200px;
+    height: 500px;
+    margin: 90px;
+}
+.imageCard {
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 200px;   
+}
+h2 {
+    font-size: 20px;
+}
+} */
