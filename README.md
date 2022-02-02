@@ -1,70 +1,61 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<header><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"></header>
 
-## Available Scripts
+<div align="center">
+ <h1>
+ Bienvenue ! Je suis Audrey VALLIÉ
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
 
-In the project directory, you can run:
+                                                                                                                                
+                                                                                                                  
+<div align="center">
+  <img src="https://media.giphy.com/media/mUtfRO0EkV7fZyTs0G/giphy.gif" width="600" height="300"/>
+</div>
 
-### `npm start`
+<hr/>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+👩‍💻: Qui suis-je ? : Je suis développeuse Full-stack junior en formation à la Wild Code School <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> sur Paris.
+  
+- :telescope: - React.JS & Node.JS - Frontend and backend pour développer des sites internets et des applications.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- :zap: J'aime créer & réaliser ( broderie, cirer des bougies, activités manuelles), j'aime la musique (DJ) et cuisiner.
 
-### `npm test`
+- :mailbox:Me contacter: [![Linkedin Badge](https://img.shields.io/badge/-Audrey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/audrey-valli%C3%A9-26a65118b/)
+                                                                                    
+                                                                                  
+<hr/>
+<div align="center">
+:hammer_and_wrench: Langages et outils utilisés pour ce projet:
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="JavaScript" width="40" height="40"/>&nbsp;
+ title="git" alt="JavaScript" width="40" height="40"/>&nbsp;
+</div>
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+<br/>
+<h2> Le challenge </h2>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p>Votre défi consiste à créer ce composant de carte de prévisualisation et à le rendre aussi proche que possible de la conception.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Vous pouvez utiliser tous les outils que vous aimez pour vous aider à relever le défi. Donc, si vous avez quelque chose que vous aimeriez pratiquer, n'hésitez pas à l'essayer.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Vos utilisateurs doivent pouvoir :
 
-### `npm run eject`
+Voir la disposition optimale en fonction de la taille de l'écran de leur appareil
+Voir les états de survol pour les éléments interactifs.</p>
+</br>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<h2>Captures d'écran</h2>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Capture d’écran 2022-02-01 à 21 33 38](https://user-images.githubusercontent.com/82833380/152047818-a6b9649f-b583-482d-bec8-a191eb94388d.png)
+![Capture d’écran 2022-02-01 à 21 33 58](https://user-images.githubusercontent.com/82833380/152047830-88267ee9-00b3-49ff-9f7b-eb4c5d265301.png)
+![Capture d’écran 2022-02-01 à 21 34 15](https://user-images.githubusercontent.com/82833380/152047838-e53a4830-e145-4d8f-ad05-3a03d5a11783.png)
+![Capture d’écran 2022-02-01 à 21 34 27](https://user-images.githubusercontent.com/82833380/152047846-c74efac8-da2b-4a3d-a111-5faab80327f4.png)
